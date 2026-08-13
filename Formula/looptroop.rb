@@ -2,8 +2,8 @@
 class Looptroop < Formula
   desc "Local AI coding orchestration with council planning and human-gated PRs"
   homepage "https://www.looptroop.ovh/"
-  url "https://github.com/looptroop-ai/LoopTroop/releases/download/v0.5.1/looptroop-0.5.1-bundle.tar.gz"
-  sha256 "e89414c281222db4e8ca90c904a16e67b4e150a25bc771de678d030e4c8a9fca"
+  url "https://github.com/looptroop-ai/LoopTroop/releases/download/v0.5.2/looptroop-0.5.2-bundle.tar.gz"
+  sha256 "5737e34b715991670e4ab4941cc78be875462954ccf6ed853db15530f4c7e1b3"
   license "MIT"
 
   livecheck do
